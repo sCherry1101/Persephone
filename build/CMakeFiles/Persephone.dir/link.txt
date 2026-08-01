@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Persephone.dir/link.d CMakeFiles/Persephone.dir/src/main.cpp.o -o Persephone
