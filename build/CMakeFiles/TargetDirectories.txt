@@ -1,3 +1,0 @@
-/home/cherry/persephone/build/CMakeFiles/Persephone.dir
-/home/cherry/persephone/build/CMakeFiles/edit_cache.dir
-/home/cherry/persephone/build/CMakeFiles/rebuild_cache.dir
