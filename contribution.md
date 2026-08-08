@@ -13,7 +13,7 @@ Some commonly used headers are ``add:`` , ``fix:`` , ``update:`` ``pr:`` with br
 
 2. For making new files/folders make sure the name should be related to the code inside it
 
-3. Each file should NOT exceed 200 lines
+3. Each file should NOT exceed 200 lines to maintain readablity 
 
 - What can you contribute too?
 
