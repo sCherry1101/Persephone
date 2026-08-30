@@ -1,6 +1,10 @@
+# Prefix: ``pse``
+
+# Command execution format: ``pse --{command}``
+
 # Commands Planned: 
 
-1. Play/Pause
+1. Play/Pause 
 2. Volume (Up/Down)
 3. List playlists
 4. List songs of the playlist 
