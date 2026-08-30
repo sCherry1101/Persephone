@@ -9,12 +9,12 @@ Persephone is a lightwieght, customizable terminal-based Spotify client written 
 ## How to run?
 
 ### Clone repo:
- ``git clone https://github.com/sCherry1101/Persephone.git``
+ ```git clone https://github.com/sCherry1101/Persephone.git```
 
-### Navigate to the project
- ``cd Persephone``
+### Navigate to the project:
+ ```cd Persephone```
 
-### Run 
+### Run:
 **A helper script is included so you don't have to repeatedly type the CMake commands:**
 
 *Execute once:*
